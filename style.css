@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(128, 183, 210);
+}
+#head{
+    margin-left: 30px;
+    margin-top: 10px;
+} 
+nav{
+    display: flex;
+    justify-content:flex-end;
+    
+}
+
+nav ul {
+    justify-content:space-between;
+    list-style-type: none;
+    
+
+}
+.name{
+    margin-left: 2%;
+   
+}
+i{
+    margin-right: 4px;
+}
+a{
+    color:#5121cb;
+}
+h3 {
+    padding-top: 10px;
+    list-style-type: none;
+}
+.name li{
+    list-style-type: none;
+}
