@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(128, 183, 210);
+    background-color: rgb(176, 198, 209);
 }
 
 #head {
@@ -14,7 +14,7 @@ body {
 }
 
 nav {
-    background-color: aquamarine;
+    background-color: rgb(106, 192, 205);
     height: 80px;
     display: flex;
     justify-content: flex-end;
@@ -58,4 +58,15 @@ h3 {
 #dot li{
     list-style-type: disc;
     margin-left: 20px;
+}
+h3{
+    text-decoration-line: underline;
+}
+img{width: 100px;
+    height: 100px;
+
+}
+h5{
+    padding-top:20px;
+    
 }
